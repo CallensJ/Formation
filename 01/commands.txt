@@ -1,0 +1,16 @@
+git init
+git add.
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/CallensJ/Formation.git
+git push -u origin main
+
+
+git add .
+git commit -m 'added starting files'
+git push
+
+#### add page.html ####
+git add .
+git commit -m 'added starting files 2'
+git push
